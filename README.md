@@ -27,6 +27,6 @@ Your objective after obtaining the files will be to make a new folder in the `ch
 
 First, write down a small descriptor/backstory of that character plus your discord username to confirm that it is indeed you that is making the changes.
 
-Secondly, make sure whatever changes you have made are committed to your fork.
+Secondly, make sure whatever changes you have made are committed to your branch.
 
 Lastly, make a PR! Your PR will be accepted once all conditions are met.
