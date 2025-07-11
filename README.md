@@ -6,7 +6,7 @@ This repository is accessible by anyone who wishes to learn how to make proper P
 
 
 # The Absolute Basics
-First, you will need to download the files to your PC in order to make any changes. You will need to obtain the git link for this repository, which you can get by clicking the green `Get Code` button and copying the link into the command `git clone (link here)`. Cloning is like downloading files from a remote server.
+First, you will need to download the files to your PC in order to make any changes. You will need to obtain the git link for this repository, which you can get by clicking the green `Code` button and copying the link into the command `git clone (link here)`. Cloning is like downloading files from a remote server.
 
 Git works on a "version" system in every repository - every version containing a set of changes. Every version is set chronologically from each commit. This is useful in keeping track of larger projects, with multitudes of files within it. If you ever make mistakes, you can always roll back!
 
