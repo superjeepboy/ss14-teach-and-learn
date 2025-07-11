@@ -25,7 +25,7 @@ There are a few key things to keep in mind before submitting a PR. None of your 
 
 Your objective after obtaining the files will be to make a new folder in the `characters` folder, with a .txt file in it. Name the folder your character name. All the prerequisites in the .txt file are as follows:
 
-First, write down a character name and a small descriptor/backstory of that character plus your discord username to confirm that it is indeed you that is making the changes.
+First, write down a small descriptor/backstory of that character plus your discord username to confirm that it is indeed you that is making the changes.
 
 Secondly, make sure whatever changes you have made are committed to your fork.
 
